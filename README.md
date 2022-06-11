@@ -4,7 +4,7 @@
 <p><strong>Primeiro contato com a platafoma <em><a href="https://www.alura.com.br/">Alura</a><em></strong></p>
 <img src="https://www.alura.com.br/assets/img/alura-logo-white.1647533642.svg" heigth="150" width="150">
   <p><h3>Na alura eu fiz os seguintes cursos:</h3></p>
-<li>
-  <ul>Arquitetura de computadores: por trás de como seu programa funciona</ul>
-  <ul>Git e Github: controle e compartilhe seu código</ul>
-  </li>
+<ul>
+  <li>Arquitetura de computadores: por trás de como seu programa funciona</li>
+  <li>Git e Github: controle e compartilhe seu código</li>
+  </ul>
