@@ -3,7 +3,7 @@
 <p>Eu conheci a programação com meu amigo, ele me apresentou e após um tempo eu tive meu primeiro contato.</p>
 <p><strong>Primeiro contato com a platafoma <em><a href="https://www.alura.com.br/">Alura</a><em></strong></p>
 <img src="https://www.alura.com.br/assets/img/alura-logo-white.1647533642.svg" heigth="150" width="150">
-  <p><h3>Na alura eu fiz os seguintes cursos:</h3></p>
+  <p><h3>Na Alura eu fiz os seguintes cursos:</h3></p>
 <ul>
   <li>Arquitetura de computadores: por trás de como seu programa funciona</li>
   <li>Git e Github: controle e compartilhe seu código</li>
@@ -20,4 +20,9 @@
   <li>Minecraft: estruturas lógicas com redstone</li>
   <li>Vue.js parte 1: construindo Single Page Applications</li>
   <li>Vue.js parte 2: construindo Single Page Applications</li>
-  </ul>
+</ul>
+ <p><h3>Formações Alura:</h3></p>
+<ul>
+  <li>Formação iniciante em programação</li>
+  <li>Formação Vue.js</li>
+</ul>
