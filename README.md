@@ -1,7 +1,7 @@
 # Um-pouco-sobre-mim
 <em><p>vou falar um pouco sobre mim, minhas formações e sobre meus planos e sonhos</p></em>
 <p>Eu conheci a programação com meu amigo, ele me apresentou e após um tempo eu tive meu primeiro contato.</p>
-<p><strong>Primeiro contato com a platafoma <em><a href="https://www.alura.com.br/">Alura</a><em></strong></p>
+<p><strong><h2>Primeiro contato com a platafoma <em><a href="https://www.alura.com.br/">Alura</a></h2<em></strong></p>
 <img src="https://www.alura.com.br/assets/img/alura-logo-white.1647533642.svg" heigth="150" width="150">
   <p><h3>Na Alura eu fiz os seguintes cursos:</h3></p>
 <ul>
@@ -26,5 +26,5 @@
   <li>Formação iniciante em programação</li>
   <li>Formação Vue.js</li>
 </ul>
-<p><strong>Logo depois do meu plano com a Alura acabar eu conheci a <em><a href="https://www.dio.me/">DIO (Digital Innovation One)</a><em></strong></p>
-
+<p><strong><h2>Logo depois do meu plano com a Alura acabar eu conheci a <em><a href="https://www.dio.me/">DIO (Digital Innovation One)</a></h2><em></strong></p>
+<img src="https://imgs.search.brave.com/cMJ3GjcN3kidwn9rb1Dx0xhmqfJstRhjmHIbMCkLULo/rs:fit:711:225:1/g:ce/aHR0cHM6Ly90c2Ux/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC5M/bnZWRDAtOEJzZ2Yz/eWJYd0c1ZmFnSGFF/OCZwaWQ9QXBp">
