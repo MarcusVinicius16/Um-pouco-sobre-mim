@@ -1,7 +1,7 @@
 # Um-pouco-sobre-mim
 <em><p>vou falar um pouco sobre mim, minhas formações e sobre meus planos e sonhos</p></em>
 <p>Eu conheci a programação com meu amigo, ele me apresentou e após um tempo eu tive meu primeiro contato.</p>
-<p><strong><h2>Primeiro contato com a platafoma <em><a href="https://www.alura.com.br/">Alura</a></h2<em></strong></p>
+<p><strong><h2>Primeiro contato com a platafoma <em><a href="https://www.alura.com.br/">Alura</a></h2><em></strong></p>
 <img src="https://www.alura.com.br/assets/img/alura-logo-white.1647533642.svg" heigth="150" width="150">
   <p><h3>Na Alura eu fiz os seguintes cursos:</h3></p>
 <ul>
