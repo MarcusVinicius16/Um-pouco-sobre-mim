@@ -26,3 +26,5 @@
   <li>Formação iniciante em programação</li>
   <li>Formação Vue.js</li>
 </ul>
+<p><strong>Logo depois do meu plano com a Alura acabar eu conheci a <em><a href="https://www.dio.me/">DIO (Digital Innovation One)</a><em></strong></p>
+
