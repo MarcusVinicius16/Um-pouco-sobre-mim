@@ -38,3 +38,5 @@
   <li>Primeiros Passos para começar a Programar</li>
   <li>Introdução à Programação e Pensamento Computacional</li>
 </ul>
+<p><h3>O que eu estou fazendo no momento?</h3></p>
+<p>No momento eu estou em um bootcamp da DIO de Fullstack que se chama: Impulso Javascript Evolution, classe: intermediario, carga horaria de:  95 hrs</p>
